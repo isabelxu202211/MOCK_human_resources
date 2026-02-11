@@ -7,8 +7,8 @@ After entering the level, you first need to read the instruction which will be s
 Then, drag the function blocks to the designed section, and run. Try to satisfy the instruction using less function blocks!
 
 # Requirement
-g++ 13.3.0
-QMake version 3.1
+g++ 13.3.0  
+QMake version 3.1  
 (Using Qt version 5.15.13 in /usr/lib/x86_64-linux-gnu)
 
 # Photo
